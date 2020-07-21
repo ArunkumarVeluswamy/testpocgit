@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Index",
+      "appliesTo": "HTML/Index.html",
+      "type": "launch"
+    }
+  ]
+}
